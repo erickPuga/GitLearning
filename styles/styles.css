@@ -137,16 +137,16 @@ h1,h2,h3,h4,h5,h6{
     font-weight: 600;
     margin: 10px 0;
     display: inline-block;
-    transition: 0.3s;
+    transition: 0.9s;
     box-shadow: 0px 1px 3px black;
 }
 
 .btn-pint{
-    color: blue;
+    color: rgb(37, 182, 69);
 }
 
 .btn:hover{
-    transform: scale(1.2);
+    transform: scale(1.5);
     letter-spacing: 3px;
     background-color: #D74932;
     color: white;
