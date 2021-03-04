@@ -95,7 +95,7 @@ h1,h2,h3,h4,h5,h6{
     margin: 15px 0;
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: 5px;
+    letter-spacing: 15px;
 }
 
 .infoContent{
@@ -110,8 +110,9 @@ h1,h2,h3,h4,h5,h6{
     font-size: 25px;
     margin: 5px 0 10px 0;
     text-transform: lowercase;
-    letter-spacing: 15px;
+    letter-spacing: 2px;
     font-weight: 400;
+    text-shadow: chocolate;
 }
 
 .infoContent .block h3 a {
